@@ -242,8 +242,8 @@ import_responsibilities(df)
 import_responsibility_guides(df)
 driver.close()
 
-TODO:
-Connect up realisers to Responsibilities
-Connect up Responsibility dependencies
-Add in links in both needs/reponsibilities
-Stop it creating a new edge between nodes if the edge already exists - thats a pretty annoying thing when you are developing
+#TODO:
+#Connect up realisers to Responsibilities
+#Connect up Responsibility dependencies
+#Add in links in both needs/reponsibilities
+#Stop it creating a new edge between nodes if the edge already exists - thats a pretty annoying thing when you are developing
